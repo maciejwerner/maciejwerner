@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Maciej Werner
+### Hi there 👋! My name is Maciej Werner
 
 ## I'm currently learning JavaScript.
 
@@ -20,7 +20,7 @@
 
 ---
 <br />
-## 📈 Github Stats
+📈 Github Stats
 
 <p align="center">
 <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=maciejwerner&layout=compact&langs_count=5&theme=buefy"></img>
