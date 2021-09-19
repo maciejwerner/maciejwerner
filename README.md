@@ -2,7 +2,7 @@
 
 ## I'm currently learning JavaScript.
 
-### 📫 Contact me at maciej22@poczta.onet.eu
+## 📫 Contact me at maciej22@poczta.onet.eu
 
 ---
 ## ⚙️ Tech Stack
@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=blue"></img>
 <img src="https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=blue"></img>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maciejwerner)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maciejwerner)](https://github.com/maciejwerner/github-readme-stats)
 
 ### 📈 Github Stats
 
@@ -26,4 +26,3 @@
 </p>
 
 <br />
----
