@@ -2,14 +2,13 @@
 
 ## I'm currently learning JavaScript.
 
-###  📫 Contact me at maciej22@poczta.onet.eu
+### 📫 Contact me at maciej22@poczta.onet.eu
 
 ---
 ## ⚙️ Tech Stack
 <p align="center">
 
 <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=blue"></img>
-<img src="https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=blue"></img>
 <img src="https://img.shields.io/badge/Tech-NodeJS-informational?style=flat&logo=nodedotjs&logoColor=white&color=blue"></img>
 <img src="https://img.shields.io/badge/Tech-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=blue"></img>
 <img src="https://img.shields.io/badge/Tech-HTML5-informational?style=flat&logo=html5&logoColor=white&color=blue"></img>
@@ -21,7 +20,7 @@
 
 ---
 <br />
-##  📈 Github Stats
+## 📈 Github Stats
 
 <p align="center">
 <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=maciejwerner&layout=compact&langs_count=5&theme=buefy"></img>
