@@ -5,25 +5,28 @@
 ###  📫 Contact me at maciej22@poczta.onet.eu
 
 ---
-### Languages and Tools:
+## ⚙️ Tech Stack
+<p align="center">
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
+<img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=blue"></img>
+<img src="https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=blue"></img>
+<img src="https://img.shields.io/badge/Tech-NodeJS-informational?style=flat&logo=nodedotjs&logoColor=white&color=blue"></img>
+<img src="https://img.shields.io/badge/Tech-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=blue"></img>
+<img src="https://img.shields.io/badge/Tech-HTML5-informational?style=flat&logo=html5&logoColor=white&color=blue"></img>
+<img src="https://img.shields.io/badge/Tech-CSS3-informational?style=flat&logo=css3&logoColor=white&color=blue"></img>
+<img src="https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=blue"></img>
+<img src="https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=blue"></img>
 
----
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maciejwerner)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=maciejwerner&show_icons=true) 
+---
+<br />
+##  📈 Github Stats
 
-![GitHub metrics](https://metrics.lecoq.io/maciejwerner)  
+<p align="center">
+<img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=maciejwerner&layout=compact&langs_count=5&theme=buefy"></img>
+<img width="49%"  src="https://github-readme-streak-stats.herokuapp.com/?user=maciejwerner"></img>
+</p>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=maciejwerner)  
-
-
+<br />
+---
