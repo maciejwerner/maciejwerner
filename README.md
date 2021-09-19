@@ -2,7 +2,6 @@
 
 ## I'm currently learning JavaScript.
 
----
 ###  📫 Contact me at maciej22@poczta.onet.eu
 
 ---
@@ -17,21 +16,15 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
-
-<br />
----
-<br />
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/maciejwerner)  
+
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maciejwerner)](https://github.com/anuraghazra/github-readme-stats)
-<br />
----
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=maciejwerner&show_icons=true) 
-<br />
----
+
 ![GitHub metrics](https://metrics.lecoq.io/maciejwerner)  
-<br />
----
+
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=maciejwerner)  
 
 
